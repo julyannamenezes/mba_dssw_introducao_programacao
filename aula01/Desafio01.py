@@ -1,3 +1,5 @@
+
+
 # Verificador de Número Par oi Ímpar:
 #Crie um programa que verifique se um número (informado pelo usuário) é par ou ímpar
 
